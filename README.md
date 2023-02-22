@@ -111,7 +111,7 @@ To run the project, execute the following command:
 
 - After cloning and installing the dependencies, you can run this command in the project's directory to run it on local server:
 
-`vite run dev`
+`yarn run dev`
 
 ### Run tests
 
